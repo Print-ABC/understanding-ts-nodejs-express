@@ -8,11 +8,11 @@ Udemy course name: [Understanding TypeScript - 2020 Edition](https://www.udemy.c
 To start project, run the following commands in two different terminals:
 ### Terminal 1
 ```
-cd understanding-ts-drag-drop
+cd understanding-ts-nodejs-express
 tsc -w
 ```
 ### Terminal 2
 ```
-cd understanding-ts-drag-drop
+cd understanding-ts-nodejs-express
 npm start
 ```
